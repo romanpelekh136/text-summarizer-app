@@ -67,6 +67,7 @@ function App() {
               onChange={(e) => setModelType(e.target.value)}
             >
               <option value="lexrank">LexRank (Local)</option>
+              <option value="random_forest">Random Forest (ML)</option>
               <option value="gemini">Gemini (Cloud)</option>
             </select>
           </div>

@@ -6,3 +6,7 @@ pydantic
 google-generativeai
 python-dotenv
 langdetect
+scikit-learn
+datasets
+numpy
+imbalanced-learn
