@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sumy
+nltk
+pydantic
+google-generativeai
+python-dotenv
+langdetect
